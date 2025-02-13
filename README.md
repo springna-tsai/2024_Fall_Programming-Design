@@ -50,16 +50,18 @@
 - C++ compiler
 
 ### Installation & Compilation
-```bash
 # Clone the repository
-git clone https://github.com/yourusername/Dream-Adventure.git
-cd Dream-Adventure
+```bash
+  git clone https://github.com/yourusername/Dream-Adventure.git
+  cd Dream-Adventure
 
 # Compile using g++
-g++ -std=c++17 main.cpp Player.cpp Guardian.cpp DictionaryBeast.cpp CodeShadow.cpp -o dream_adventure
+```bash
+  g++ -std=c++17 main.cpp Player.cpp Guardian.cpp DictionaryBeast.cpp CodeShadow.cpp -o dream_adventure
 
 # Run the game
-./dream_adventure
+```bash
+  ./dream_adventure
 
 ---
 
